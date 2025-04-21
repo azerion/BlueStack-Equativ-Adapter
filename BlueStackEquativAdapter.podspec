@@ -16,7 +16,7 @@ s.documentation_url = 'https://developers.bluestack.app/ios/mediation/primairy/s
 s.vendored_frameworks = "BlueStackEquativAdapter.xcframework"
 s.ios.deployment_target = '13.0'
 
-s.dependency 'BlueStack-SDK', '>=5.1.4'
+s.dependency 'BlueStack-SDK', '>=5.1.3'
 s.dependency 'Equativ-Display-SDK', '~> 8.0'
 
 s.pod_target_xcconfig =
