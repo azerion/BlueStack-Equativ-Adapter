@@ -1,0 +1,6 @@
+framework module BlueStackEquativAdapter {
+  umbrella header "BlueStackEquativAdapter.h"
+  export *
+
+  module * { export * }
+}
