@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/azerion/BlueStackSDK.git", from: "5.1.4"),
-        .package(url: "https://github.com/smartadserver/swift-package-manager-display-sdk.git", .upToNextMajor(from: "8.0.0"))
+        .package(url: "https://github.com/smartadserver/swift-package-manager-display-sdk.git", exact: "8.5.0")
     ],
     targets: [
         .target(
