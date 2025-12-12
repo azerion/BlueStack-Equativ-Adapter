@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.authors = 'Azerion'
 s.name = 'BlueStackEquativAdapter'
-s.version = '5.1.4.3'
+s.version = '5.1.8'
 s.static_framework = true
 s.license = 'MIT'
 s.platform = :ios, '13.0'
