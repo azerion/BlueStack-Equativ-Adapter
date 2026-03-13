@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.authors = 'Azerion'
 s.name = 'BlueStackEquativAdapter'
-s.version = '5.1.8'
+s.version = '6.0.0'
 s.static_framework = true
 s.license = 'MIT'
 s.platform = :ios, '13.0'
@@ -16,7 +16,7 @@ s.documentation_url = 'https://developers.bluestack.app/ios/mediation/primairy/s
 s.vendored_frameworks = "BlueStackEquativAdapter.xcframework"
 s.ios.deployment_target = '13.0'
 
-s.dependency 'BlueStack-SDK', '>=5.1.3'
+s.dependency 'BlueStack-SDK', '>=6.0.0'
 s.dependency 'Equativ-Display-SDK', '8.5.1'
 
 s.pod_target_xcconfig =
