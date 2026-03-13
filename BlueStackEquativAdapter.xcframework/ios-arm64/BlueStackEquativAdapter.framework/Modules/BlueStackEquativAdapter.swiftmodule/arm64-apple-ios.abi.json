@@ -1,0 +1,209 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "BlueStackEquativAdapter",
+    "printedName": "BlueStackEquativAdapter",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BlueStackSDK",
+        "printedName": "BlueStackSDK",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "SASDisplayKit",
+        "printedName": "SASDisplayKit",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BlueStackSDK",
+        "printedName": "BlueStackSDK",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "SASDisplayKit",
+        "printedName": "SASDisplayKit",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BlueStackSDK",
+        "printedName": "BlueStackSDK",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "SASDisplayKit",
+        "printedName": "SASDisplayKit",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "BlueStackSDK",
+        "printedName": "BlueStackSDK",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "SASDisplayKit",
+        "printedName": "SASDisplayKit",
+        "declKind": "Import",
+        "moduleName": "BlueStackEquativAdapter"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/EquativBiddingInterstitialAd.swift",
+      "kind": "BooleanLiteral",
+      "offset": 508,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 150,
+      "length": 9,
+      "value": "\"6.0.0.0\""
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 191,
+      "length": 15,
+      "value": "\"EquativBidder\""
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 255,
+      "length": 8,
+      "value": "\"siteId\""
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 284,
+      "length": 10,
+      "value": "\"formatId\""
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 313,
+      "length": 8,
+      "value": "\"pageId\""
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 357,
+      "length": 25,
+      "value": "\"supplyChainObjectString\""
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 448,
+      "length": 22,
+      "value": "\"banner-inapp-bidding\""
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "StringLiteral",
+      "offset": 495,
+      "length": 28,
+      "value": "\"interstitial-inapp-bidding\""
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 591,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 632,
+      "length": 2,
+      "value": "-2"
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 668,
+      "length": 2,
+      "value": "-3"
+    },
+    {
+      "filePath": "\/Users\/shadman\/Projects\/azerion\/bluestack-mediation-ios\/Equativ\/BlueStackEquativAdapter\/BlueStackEquativAdapter\/AdapterConstants.swift",
+      "kind": "IntegerLiteral",
+      "offset": 705,
+      "length": 2,
+      "value": "-4"
+    }
+  ]
+}
