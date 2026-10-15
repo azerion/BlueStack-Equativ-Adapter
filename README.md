@@ -9,8 +9,8 @@ Using BlueStackEquativAdapter you will be able to show Equativ ads through BlueS
 - Interstitial
 
 ## Requirements
-- Xcode 15.0 or higher
-- iOS: 13.0 or higher
+- Xcode 27.0 or higher
+- iOS: 15.0 or higher
 
 ## Integrate BlueStackEquativAdapter in your application project
 
